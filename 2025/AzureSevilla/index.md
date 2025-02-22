@@ -18,13 +18,13 @@ The [Call for Speakers is open](https://sessionize.com/global-azure-sevilla-2025
 
 * 📅 May 8th-10th
 * Online in [Global Azure Sevilla 2025 - YouTube](https://www.youtube.com/@GlobalAzureSevilla-ng6ci)
-* In-Person in **TBD**
+* In-Person in **This year there will be no in-person sessions to coincide with the Seville Fair.**
 * 🎙️Call for speakers - [https://sessionize.com/global-azure-sevilla-2025](https://sessionize.com/global-azure-sevilla-2025)
 * 💶Sponsors - We are looking for sponsors. Reach out to any of the [organizers](https://azuresevilla.github.io/organizers/)
 
 ## Agenda
 
-The agenda will be updated once the call for speakers has ended in https://azuresevilla.github.io/blog/2025/05/08/agenda-global-azure-sevilla-2025/.
+The agenda will be updated once the call for speakers has ended in [https://azuresevilla.github.io/blog/2025/05/08/agenda-global-azure-sevilla-2025/](https://azuresevilla.github.io/blog/2025/05/08/agenda-global-azure-sevilla-2025/).
 
 ## Organizers
 
